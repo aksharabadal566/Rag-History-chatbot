@@ -1,0 +1,6 @@
+langchain
+langchain-community
+langchain-core
+chromadb
+tiktoken
+J�P1r�4��Y���8埙��SL��ww��Y���䍬Pf7��bd��B��F�y
